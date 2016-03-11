@@ -109,11 +109,13 @@ p a:hover {
 }
 
 .soundcite-play:before {
+	border: 0.5em solid transparent;
 	border-left: .75em white;
 }
 
 .soundcite-pause:before {
 	border-left: .75em white;
+	border-right: .5em white;
 }
 
 
